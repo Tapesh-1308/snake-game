@@ -2,7 +2,7 @@
 import pygame
 import random
 import os
-
+# best snake game using pygame
 # Initialization
 pygame.mixer.init()
 pygame.init()
